@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "fb:init": "firebase init",
+    "fb:login:ci": "firebase login:ci",
     "deploy": "firebase deploy"
   },
   "eslintConfig": {
