@@ -8,6 +8,8 @@ sh app_start
 sh app_stop
 ```
 
+## 自動デプロイ
+- masterbrunchへのPush
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
