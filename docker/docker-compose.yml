@@ -9,7 +9,7 @@ services:
     volumes:
       - type: bind
         source: ../
-        target: /home/app
+        target: /home/workspace
     command: sh -c "yarn start"
     networks:
       - docknet
