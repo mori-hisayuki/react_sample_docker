@@ -29,4 +29,4 @@ yarn-error.log*
 .firebase
 
 # config file
-/src/firebase/config.js
+/src/firebase/config.tsx
